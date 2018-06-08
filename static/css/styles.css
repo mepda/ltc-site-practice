@@ -1,0 +1,62 @@
+nav {
+  box-shadow: 0 0 0;
+}
+
+#home {
+  margin-top: -5%;
+  height: 80vh;
+  background-color: white;
+}
+
+#wrapper {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  height: 100vh;
+  width: 100%;
+}
+.brand-logo {
+  margin-left: 15px;
+}
+body {
+  font-family: "merriweather";
+}
+
+.slack {
+  height: 80vh;
+}
+
+.shpele {
+  margin-top: -5%;
+  height: 100vh;
+  padding-top: 5%;
+}
+
+#slack-call {
+  margin: 0 auto;
+  font-family: "Slackey";
+}
+
+.splash-box {
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+}
+
+#slack-box {
+  text-align: center;
+  width: 80%;
+  height: 20%;
+}
+
+#logo {
+  font-family: "pacifico";
+  transform: rotate(-15deg);
+  margin: 0 auto;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: red;
+}
